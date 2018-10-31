@@ -19,7 +19,7 @@ You can install CellarFS from pip as follows:
 
 ::
 
-    pip install fs-cellarfs
+    pip install git+git://github.com/DamnDam/fs-cellarfs.git
 
 Opening a CellarFS
 --------------
